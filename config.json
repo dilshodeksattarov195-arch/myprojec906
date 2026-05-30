@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvrocess",
+        "uuid": 3087648,
+        "checksum": "eemxhe"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
